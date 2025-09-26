@@ -18,7 +18,9 @@ It demonstrates a full machine learning workflow including data preprocessing, m
 
 ├── Iris.csv                # Dataset
 
-├── SpeciesPrediction.py    # Main Python code
+├── IrisClassification.py    # Main Python code
+
+├──requirements.txt          #Requirements file
 
 ├── README.md               # Project documentation
 
@@ -49,9 +51,9 @@ Optional: confusion matrix heatmap visualization
 
 ## Installation:
 ### 1.Clone this repo:
-git clone https://github.com/Sahil-Shinde-101/iris-prediction-model.git
+git clone https://github.com/Sahil-Shinde-101/iris-classification-model.git
 
-cd iris-prediction-model
+cd iris-classification-model
 
 ### 2.Install dependencies:
 pip install -r requirements.txt
